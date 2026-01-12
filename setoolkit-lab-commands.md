@@ -16,7 +16,7 @@ Legal disclaimer was displayed
 
 SET main menu appeared in the terminal
 
-![Launching SEToolkit](screenshots/step1-launch-setoolkit.png)
+![Launching SEToolkit](setoolkit-website-cloning-lab/screenshots/step1-launch-setoolkit.png)
 
 STEP 2
 Selecting Social-Engineering Attacks
