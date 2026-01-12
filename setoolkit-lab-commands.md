@@ -40,7 +40,7 @@ The Website Attack Vectors section is specifically designed for attacks that inv
 Result / Observation
 Once the Website Attack Vectors option was selected, SEToolkit displayed a new menu with multiple website-based attack options, each accompanied by a short explanation. This made it easier to understand the available attack paths and confirmed that the lab was progressing toward the website cloning and credential harvesting objective.
 
-[Website Attack Vectors](screenshots/step3-website-attack-vectors.png)
+![Website Attack Vectors](screenshots/step3-website-attack-vectors.png)
 
 STEP 4
 Selecting the Credential Harvester Attack Method
@@ -51,7 +51,7 @@ The Credential Harvester Attack Method was selected because it is designed to ca
 Result / Observation
 After selecting this option, SEToolkit prepared the environment for credential harvesting and prompted for additional configuration related to the website cloning process.
 
-[Credential Harvester Attack](screenshots/step4-credential-harvester.png)
+![Credential Harvester Attack](screenshots/step4-credential-harvester.png)
 
 STEP 5
 Selecting the Site Cloner
@@ -62,7 +62,7 @@ The Site Cloner option was selected to replicate the login page of a target webs
 Result / Observation
 After entering the [IP address and the URL], SEToolkit proceeded to clone the target website and prepared it for hosting locally. This confirmed that the site cloning process was successfully initiated using the specified target.
 
-[Site cloner](screenshots/step5-site-cloner.png)
+![Site cloner](screenshots/step5-site-cloner.png)
 
 STEP 6
 Providing the Attacker IP Address and Target URL
@@ -76,7 +76,7 @@ SEToolkit then prompted for the URL of the website to be cloned. The target URL 
 Result / Observation
 Once the IP address and target URL were entered, SEToolkit began cloning the DVWA website and configuring the local web server. This allowed the cloned login page to be hosted locally and prepared the environment to capture any credentials submitted through the fake site.
 
-[Attacker IP address & URL](screenshots/step6-ip-and-url.png)
+![Attacker IP address & URL](screenshots/step6-ip-and-url.png)
 
 
 STEP 7
@@ -92,12 +92,12 @@ When the cloned website was accessed and login details were submitted, SEToolkit
 
 This step demonstrated how attackers combine phishing techniques with cloned websites to harvest sensitive user information, even when no software vulnerability is exploited.
 
-[Simple html page-phishing link](screenshots/simple-html-page.png)
+![Simple html page-phishing link](screenshots/simple-html-page.png)
 
-[The cloned Website](screenshots/step7-cloned-site.png)
+![The cloned Website](screenshots/step7-cloned-site.png)
 
 
-[Credential Successfully Harvested](screenshots/step8-credentials-harvested.png)
+![Credential Successfully Harvested](screenshots/step8-credentials-harvested.png)
 
 STEP 8
 Lab Summary and Key Takeaways
