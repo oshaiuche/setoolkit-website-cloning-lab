@@ -27,7 +27,7 @@ At this stage, the Social-Engineering Attacks option was selected from the SEToo
 Result / Observation
 After selecting Social-Engineering Attacks, SEToolkit displayed a new submenu containing various social engineering attack techniques. This confirmed that the tool had moved from the main menu into the social engineering attack section, allowing further configuration of the website cloning attack.
 
-[Social Engineering Attacks Menu](screenshots/step2-social-engineering-attacks.png)
+![Social Engineering Attacks Menu](screenshots/step2-social-engineering-attacks.png)
 
 STEP 3
 Selecting Website Attack Vectors
